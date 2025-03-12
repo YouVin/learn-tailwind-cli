@@ -1,6 +1,26 @@
 @import "tailwindcss";
+@import "./../assets/font/pretendard/pretendardvariable.css";
+@import "./../assets/font/notoserif/notoserif.css";
+@import "./../assets/font/suit/SUIT-Variable.css";
 
 @theme {
+  --animate-wiggle: wiggle 0.3s ease-in-out infinite;
+
+  /* Index Layout을 위한 그리드 관련 변수 */
+  --lion: repeat(auto-fit, minmax(200px, 1fr));
+  --animate-wobble: wobble 0.6s infinite ease-in-out;
+
+  /* 이디야 기본 블로 */
+  --color-ediya-blue-100: #a7d1e7;
+  --color-ediya-blue-200: #2c68ae;
+  --color-ediya-blue-300: #24388d;
+  /* 원형 그라디언트 변수 */
+  --ediya-blue: linear-gradient(
+    -45deg,
+    var(--color-ediya-blue-200),
+    var(--color-ediya-blue-300)
+  );
+
   /* Tailwind 일부 설정 재정의 */
   --color-*: initial;
   /* --color-lion: hsl(20, 50%, 50% */
@@ -405,6 +425,15 @@
     50% {
       transform: none;
       animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
+  @keyframes wiggle {
+    0%,
+    100% {
+      transform: translateX(0%) rotate(0deg);
+    }
+    50% {
+      transform: translateX() rotate(10deg);
     }
   }
 }
