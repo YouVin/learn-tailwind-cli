@@ -7,12 +7,9 @@
 
 ## 🚀 About Team
 
-| team  | 유빈    | 유지    |  한길   | 시원    |
-| ----- | --------|-------- | --------| --------|
-| Example  |https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|
-| Example  |https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|
-| Example  |https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|
-| Example  |https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|https://github.com/YouVin|
+[![임한길](https://avatars.githubusercontent.com/u/2178435?s=150&v=4)](https://github.com/netil) | [![남유지](https://avatars.githubusercontent.com/u/5152681?s=150&v=4)](https://github.com/silveracy) | [![유시원](https://avatars.githubusercontent.com/u/13645032?s=150&v=4)](https://github.com/gomjellie) | [![황유빈](https://avatars.githubusercontent.com/u/24623403?s=150&v=4)](https://github.com/sjsjsj1246)
+:---:|:---:|:---:|:---:
+[Jae Sung Park](https://github.com/netil) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) | [Inseo Hwang](https://github.com/sjsjsj1246) 
 
 
 ## 🛠 Skills
